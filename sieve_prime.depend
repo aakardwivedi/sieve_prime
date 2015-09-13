@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1431928130 source:c:\users\shivam dwivedi\desktop\coding and hacking\code blocs programs\sieve_prime\main.cpp
-	<iostream>
-	<stdio.h>
-	<string.h>
-	<fstream>
-
